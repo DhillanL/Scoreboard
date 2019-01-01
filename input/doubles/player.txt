@@ -1,0 +1,4 @@
+ENEMY || Magi
+FS || ExKirby
+HGC || AKV2
+HOUND || colaw

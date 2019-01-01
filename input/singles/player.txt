@@ -1,0 +1,4 @@
+ENEMY || Magi
+FS || ExKirby
+FS || Weazy
+HGC || AlphaKennyV2

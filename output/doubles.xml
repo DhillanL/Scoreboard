@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doubles>
+	<player1>FS || ExKirby</player1>
+	<player1A>FS</player1A>
+	<player1B>ExKirby</player1B>
+	<player2>HGC || AKV2</player2>
+	<player2A>HGC</player2A>
+	<player2B>AKV2</player2B>
+	<player3>ENEMY || Magi</player3>
+	<player3A>ENEMY</player3A>
+	<player3B>Magi</player3B>
+	<player4>HOUND || colaw</player4>
+	<player4A>HOUND</player4A>
+	<player4B>colaw</player4B>
+	<score1>0</score1>
+	<score1A>0</score1A>
+	<score1B />
+	<score2>0</score2>
+	<score2A>0</score2A>
+	<score2B />
+	<score3>0</score3>
+	<score3A>0</score3A>
+	<score3B />
+	<score4>0</score4>
+	<score4A>0</score4A>
+	<score4B />
+	<image1>zero_suit_samus</image1>
+	<image1A>zero_suit_samus</image1A>
+	<image1B />
+	<image2>shulk</image2>
+	<image2A>shulk</image2A>
+	<image2B />
+	<image3>robin</image3>
+	<image3A>robin</image3A>
+	<image3B />
+	<image4>mr_game_and_watch</image4>
+	<image4A>mr_game_and_watch</image4A>
+	<image4B />
+	<match>Egg nog</match>
+	<matchA>Egg nog</matchA>
+	<matchB />
+	<game />
+	<gameA />
+	<gameB />
+	<visible>true</visible>
+	<time>636817986877065785</time>
+</doubles>
