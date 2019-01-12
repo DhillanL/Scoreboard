@@ -1,59 +1,63 @@
 -- UNKNOWN --
-HCG | AlphaKennyV2
-AirborneArcher
+UFG | AlphaKennyV2
+A.I.
+Anaky
+Autumn
 FS | Banana-Fish
+FS | Barldon
+B Bear
 B~Little
-UoM | Mr. Bubbles
-FS | MR CH1LL
-CactuS
-Crit1
-FS | Doln
-FS | Dreamlad
-Default
+BigWeld
+Calzorz
+Dandrel
+DeckTheHallz
+FS | Destati
+Destio
+SWW | Devereux
+Dudecaker
+Ezio Auditore
 FS | ExKirby
-General Fails
+Forde999
+Foulds
+FS | Nin
+Gekko Squirrel
 SCC | Ginge
-Hexisbex
-HONEY
-Joker
-KrimsonKitten
+Goose
+Gregolas
+JAM
+JWadie
+kEVIN
+Kreis
 FS | Lokkiri
-Gearless | Luthor
 Lyto
-ENEMY | Magi
-MiniMo
-WGA | MMHM
-Mr Moo
-Nabster
-FS | Noice
-NIN
-Parsnip
-Plats
+Montezuma
+NEO17
+Pawl S.Lax
+Pegasus
+Protein
 Scr7
-SkeletalBaron
-FS | Shrek
-Smashpoint | Mr. Spuddles
-SSM | Tigerton
+FS | Scrob
+SDB | Simperheve
+Shippy
+SCC | Skittle
 TaleOfTheToaster
-WAYS | Trillbi
-turtle
+Treasure
+FS | Turtle
 UrbanTurban911
-Vexieal
-Violent Quiche
-Vulcan
+Very Badly
+Vexial
 FS | Weazy
+
 ---
-Weazy | KrimsonKitten
-AlphaKennyV2 | Doln
-ENEMY Magi | Scr7
-TaleOfTheToaster | Crit1
-Violent Quiche | AirborneArcher
-Lokkiri | Banana-Fish
-JustJoe | Venom
-Lyto | Tigerton
-Mr Moo | CactuS
-Shrek | Dreamlad
-MMHM | KLOB
+All HAM, no mayo
+ARMS United
+Calzorz | Anaky
+Destati | Sctob
+Greggstio
+Montezuma | B Bear
+Please don't SD PepeHands
+Weazy | Turtle
+
 ---
 York
 The Better York
