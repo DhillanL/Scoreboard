@@ -11,10 +11,10 @@ $(function() {
 });
 
 function getResponse() {
-	p1a = getElement(responseXml, "player1A");
-	p2a = getElement(responseXml, "player2A");
-	p1b = getElement(responseXml, "player1B");
-	p2b = getElement(responseXml, "player2B");
+	p1b = getElement(responseXml, "player1A");
+	p2b = getElement(responseXml, "player2A");
+	p1a = getElement(responseXml, "player1B");
+	p2a = getElement(responseXml, "player2B");
 	p1c = getElement(responseXml, "image1");
 	p2c = getElement(responseXml, "image2");
 	s1 = getElement(responseXml, "score1");

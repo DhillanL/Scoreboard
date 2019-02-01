@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <singles>
-	<player1>ENEMY || Magi</player1>
-	<player1A>ENEMY</player1A>
-	<player1B>Magi</player1B>
-	<player2>HGC || AlphaKennyV2</player2>
-	<player2A>HGC</player2A>
-	<player2B>AlphaKennyV2</player2B>
+	<player1 />
+	<player1A />
+	<player1B />
+	<player2>Doln || FS</player2>
+	<player2A>Doln</player2A>
+	<player2B>FS</player2B>
 	<score1>0</score1>
 	<score1A>0</score1A>
 	<score1B />
 	<score2>0</score2>
 	<score2A>0</score2A>
 	<score2B />
-	<image1>richter</image1>
-	<image1A>richter</image1A>
+	<image1>bayonetta-1</image1>
+	<image1A>bayonetta-1</image1A>
 	<image1B />
-	<image2>simon</image2>
-	<image2A>simon</image2A>
+	<image2>bayonetta-1</image2>
+	<image2A>bayonetta-1</image2A>
 	<image2B />
-	<match>Pools Wave 1</match>
-	<matchA>Pools Wave 1</matchA>
+	<match />
+	<matchA />
 	<matchB />
-	<game>Smash WiiU</game>
-	<gameA>Smash WiiU</gameA>
+	<game />
+	<gameA />
 	<gameB />
 	<visible>true</visible>
-	<time>636721928931923340</time>
+	<time>636846045380354434</time>
 </singles>

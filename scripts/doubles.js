@@ -11,14 +11,14 @@ $(function() {
 });
 
 function getResponse() {
-	p1a = getElement(responseXml, "player1A");
-	p2a = getElement(responseXml, "player2A");
-	p3a = getElement(responseXml, "player3A");
-	p4a = getElement(responseXml, "player4A");
-	p1b = getElement(responseXml, "player1B");
-	p2b = getElement(responseXml, "player2B");
-	p3b = getElement(responseXml, "player3B");
-	p4b = getElement(responseXml, "player4B");
+	p1b = getElement(responseXml, "player1A");
+	p2b = getElement(responseXml, "player2A");
+	p3b = getElement(responseXml, "player3A");
+	p4b = getElement(responseXml, "player4A");
+	p1a = getElement(responseXml, "player1B");
+	p2a = getElement(responseXml, "player2B");
+	p3a = getElement(responseXml, "player3B");
+	p4a = getElement(responseXml, "player4B");
 	p1c = getElement(responseXml, "image1");
 	p2c = getElement(responseXml, "image2");
 	p3c = getElement(responseXml, "image3");
