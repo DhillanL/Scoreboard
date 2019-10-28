@@ -87,6 +87,7 @@ PECO
 Pegasus
 Plats
 powergo
+PW || CurryGovernor
 PW || Moke
 Rafferty
 RainbowLizard
