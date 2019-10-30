@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <singles>
-	<player1>General Scales || Inner Chad</player1>
-	<player1A>General Scales</player1A>
-	<player1B>Inner Chad</player1B>
-	<player2>TaleOfTheToaster</player2>
-	<player2A>TaleOfTheToaster</player2A>
-	<player2B />
+	<player1>Charlie || DIFTA</player1>
+	<player1A>Charlie</player1A>
+	<player1B>DIFTA</player1B>
+	<player2>aperture || RIZE</player2>
+	<player2A>aperture</player2A>
+	<player2B>RIZE</player2B>
 	<score1>0</score1>
 	<score1A>0</score1A>
 	<score1B />
@@ -25,5 +25,5 @@
 	<gameA />
 	<gameB />
 	<visible>true</visible>
-	<time>637077785544607454</time>
+	<time>637080701678328172</time>
 </singles>
