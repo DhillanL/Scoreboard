@@ -84,15 +84,14 @@
 
 #p1a{ 
     color: rgb(0, 207, 52);
-    font-family: 'Roboto', sans-serif; 
     font-weight: bold;
-    font-size: 2.3rem;
+    font-size: 3rem;
 }
 
 #p2a{
     color: rgb(0, 207, 52);
-    font-family: 'Roboto', sans-serif; 
     font-weight: bold;
+    font-size: 3rem;
 }
 
 #p1c{
@@ -104,10 +103,11 @@
 }
 
 .scores .score { 
-    font-family: 'Edo'; 
+    font-family: 'Roboto'; 
     position: absolute;
     width: 100px; 
-    height: 30px; 
+    height: 30px;
+    padding-top: 7px;
     font-size: 85px; 
     text-align: center;
 }
